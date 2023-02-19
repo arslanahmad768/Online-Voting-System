@@ -11,6 +11,9 @@ sqlalchemy = "*"
 passlib = {extras = ["bcrypt"], version = "*"}
 python-jose = {extras = ["cryptography"], version = "*"}
 psycopg2 = "*"
+python-multipart = "*"
+openssl-python = "*"
+pyopenssl = "*"
 
 [dev-packages]
 
